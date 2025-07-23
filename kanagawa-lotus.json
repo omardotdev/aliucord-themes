@@ -1,0 +1,27 @@
+{
+  "manifest": {
+    "author": "Omar",
+    "version": "0.0.1",
+    "name": "kanagawa-lotus",
+    "transparency_mode": 0,
+    "license": "MIT"
+  },
+  "background": {},
+  "simple_colors": {
+    "background": -856900,
+    "background_secondary": -2304596
+  },
+  "colors": {
+    "primary_dark_360": -12369044,
+    "white_500": -11250588,
+    "primary_700": -856900,
+    "primary_dark_300": -12369044,
+    "uikit_settings_item_text_color_dark": -11250588,
+    "primary_dark_200": -11250588,
+    "link": -6310455
+  },
+  "drawable_tints": {
+    "ic_sidebar_notifications_on_dark_24dp": -12369044,
+    "ic_sidebar_pins_off_dark_24dp": -12369044
+  }
+}

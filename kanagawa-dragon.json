@@ -2,31 +2,32 @@
   "manifest": {
     "author": "Omar",
     "version": "0.0.1",
-    "name": "kanagawa",
+    "name": "kanagawa-dragon",
     "transparency_mode": 0,
     "license": "MIT"
   },
   "background": {},
   "simple_colors": {
-    "background": -14737624,
-    "background_secondary": -15329763,
+    "background": -15592945,
+    "background_secondary": -15922164,
     "accent": -8479528,
     "input_background": -14737624
   },
   "colors": {
-    "primary_dark_360": -3620717,
-    "primary_dark_300": -2304070,
+    "primary_dark_360": -3814971,
+    "primary_dark_300": -3814971,
     "primary_dark_200": -3620717,
-    "brand_new_560": -13807769,
-    "white_500": -2304070,
-    "uikit_settings_item_text_color_dark": -2304070,
+    "brand_new_560": -7625552,
+    "white_500": -3814971,
+    "uikit_settings_item_text_color_dark": -3814971,
     "primary_dark_330": -3620717,
     "status_yellow_500_alpha_10": 450667873,
     "brand_500_alpha_20": 857879113,
     "brand_new_260": -8479528,
-    "link": -8479528
+    "link": -7625552
   },
   "drawable_tints": {
-    "drawable_bg_reaction_dark": -14536119
+    "drawable_bg_reaction_dark": -14536119,
+    "ic_channel_text": -3814971
   }
 }
