@@ -22,8 +22,11 @@
     "uikit_settings_item_text_color_dark": -11250588,
     "primary_dark_200": -11250588,
     "link": -6310455
+    "brand_new_560": -11703909,
+    "primary_dark_330": -11250588
   },
   "drawable_tints": {
+    "drawable_bg_reaction_dark": -14536119,
     "ic_sidebar_notifications_on_dark_24dp": -12369044,
     "ic_sidebar_pins_off_dark_24dp": -12369044,
     "ic_status_online_16dp": -9467570,
