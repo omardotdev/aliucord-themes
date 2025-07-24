@@ -4,7 +4,8 @@
     "version": "1.0.0",
     "name": "kanagawa",
     "transparency_mode": 0,
-    "license": "MIT"
+    "license": "MIT",
+    "updater": "https://raw.githubusercontent.com/omardotdev/aliucord-themes/refs/heads/main/themes/kanagawa/kanagawa.json"
   },
   "background": {},
   "simple_colors": {
