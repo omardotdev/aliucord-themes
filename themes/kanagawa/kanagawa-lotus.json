@@ -1,7 +1,7 @@
 {
   "manifest": {
     "author": "Omar",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "name": "kanagawa-lotus",
     "transparency_mode": 0,
     "license": "MIT",
@@ -20,6 +20,7 @@
     "primary_700": -856900,
     "primary_dark_300": -12369044,
     "uikit_settings_item_text_color_dark": -11250588,
+    "uikit_settings_item_text_color_light": -2304596,
     "primary_dark_200": -11250588,
     "link": -6310455,
     "brand_new_560": -11703909,
