@@ -1,7 +1,7 @@
 {
   "manifest": {
     "author": "Omar",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "name": "kanagawa",
     "transparency_mode": 0,
     "license": "MIT",
@@ -27,7 +27,7 @@
     "brand_500_alpha_20": 857879113,
     "brand_new_260": -8479528,
     "link": -8479528,
-    "primary_700": -14737624
+    "primary_700": -14013897
   },
   "drawable_tints": {
     "drawable_bg_reaction_dark": -14536119,
