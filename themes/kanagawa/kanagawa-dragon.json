@@ -1,7 +1,7 @@
 {
   "manifest": {
     "author": "Omar",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "name": "kanagawa-dragon",
     "transparency_mode": 0,
     "license": "MIT",
@@ -25,7 +25,8 @@
     "status_yellow_500_alpha_10": 450667873,
     "brand_500_alpha_20": 857879113,
     "brand_new_260": -8479528,
-    "link": -7625552
+    "link": -7625552,
+    "primary_700": -15592945
   },
   "drawable_tints": {
     "drawable_bg_reaction_dark": -14536119,
@@ -33,6 +34,8 @@
     "ic_status_dnd_16dp": -3902354,
     "ic_status_idle_16dp": -4812165,
     "ic_status_invisible_16dp": -9208717,
-    "ic_channel_text": -3814971
+    "ic_channel_text": -3814971,
+    "ic_sidebar_notifications_on_dark_24dp": -3814971,
+    "ic_sidebar_pins_off_dark_24dp": -3814971
   }
 }

@@ -1,7 +1,7 @@
 {
   "manifest": {
     "author": "Omar",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "name": "kanagawa",
     "transparency_mode": 0,
     "license": "MIT",
@@ -25,7 +25,8 @@
     "status_yellow_500_alpha_10": 450667873,
     "brand_500_alpha_20": 857879113,
     "brand_new_260": -8479528,
-    "link": -8479528
+    "link": -8479528,
+    "primary_700": -14737624
   },
   "drawable_tints": {
     "drawable_bg_reaction_dark": -14536119,
@@ -33,6 +34,8 @@
     "ic_status_dnd_16dp": -1808266,
     "ic_status_idle_16dp": -24474,
     "ic_status_invisible_16dp": -9339780,
-    "ic_channel_text": -2304070
+    "ic_channel_text": -2304070,
+    "ic_sidebar_notifications_on_dark_24dp": -3620717,
+    "ic_sidebar_pins_off_dark_24dp": -3620717
   }
 }
