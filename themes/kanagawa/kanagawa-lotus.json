@@ -1,38 +1,48 @@
 {
-  "manifest": {
-    "author": "Omar",
-    "version": "1.0.4",
-    "name": "kanagawa-lotus",
-    "transparency_mode": 0,
-    "license": "MIT",
-    "updater": "https://raw.githubusercontent.com/omardotdev/aliucord-themes/refs/heads/main/themes/kanagawa/kanagawa-lotus.json"
-  },
-  "background": {},
-  "simple_colors": {
-    "background": -856900,
-    "background_secondary": -2304596,
-    "accent": -11703909,
-    "input_background": -2304596
-  },
-  "colors": {
-    "primary_dark_360": -12369044,
-    "white_500": -11250588,
-    "primary_700": -1712720,
-    "primary_dark_300": -12369044,
-    "uikit_settings_item_text_color_dark": -11250588,
-    "uikit_settings_item_text_color_light": -11703909,
-    "primary_dark_200": -11250588,
-    "link": -6310455,
-    "brand_new_560": -11703909,
-    "primary_dark_330": -11250588
-  },
-  "drawable_tints": {
-    "drawable_bg_reaction_dark": -3680288,
-    "ic_sidebar_notifications_on_dark_24dp": -12369044,
-    "ic_sidebar_pins_off_dark_24dp": -12369044,
-    "ic_status_online_16dp": -9467570,
-    "ic_status_dnd_16dp": -3653549,
-    "ic_status_idle_16dp": -3379968,
-    "ic_status_invisible_16dp": -9208717
-  }
+    "manifest": {
+        "author": "Omar",
+        "version": "1.1.0",
+        "name": "kanagawa-lotus",
+        "transparency_mode": 0,
+        "license": "MIT",
+        "updater": "https:\/\/raw.githubusercontent.com\/omardotdev\/aliucord-themes\/refs\/heads\/main\/themes\/kanagawa\/kanagawa-lotus.json"
+    },
+    "background": {},
+    "simple_colors": {
+        "background": -856900,
+        "background_secondary": -2304596,
+        "accent": -11703909,
+        "input_background": -2304596
+    },
+    "colors": {
+        "primary_dark_360": -12369044,
+        "white_500": -856900,
+        "primary_700": -856900,
+        "primary_dark_300": -12369044,
+        "uikit_settings_item_text_color_dark": -2304596,
+        "uikit_settings_item_text_color_light": -11250588,
+        "primary_dark_200": -11250588,
+        "link": -6310455,
+        "brand_new_560": -11703909,
+        "primary_dark_330": -11250588,
+        "status_grey_130": -856900,
+        "status_grey_200": -2304596,
+        "status_grey_160": -2304596,
+        "status_grey_100": -856900,
+        "uikit_btn_bg_color_selector_red": -3653549,
+        "status_grey_530": -11250588,
+        "status_grey_600": -11250588,
+        "status_grey_900": -11250588
+    },
+    "drawable_tints": {
+        "drawable_bg_reaction_dark": -3680288,
+        "ic_sidebar_notifications_on_dark_24dp": -12369044,
+        "ic_sidebar_pins_off_dark_24dp": -12369044,
+        "ic_status_online_16dp": -9467570,
+        "ic_status_dnd_16dp": -3653549,
+        "ic_status_idle_16dp": -3379968,
+        "ic_status_invisible_16dp": -9208717
+    },
+    "fonts": {},
+    "raws": {}
 }
