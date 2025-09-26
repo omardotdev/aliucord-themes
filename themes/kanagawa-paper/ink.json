@@ -4,7 +4,8 @@
         "version": "1.0.0",
         "transparency_mode": 0,
         "license": "MIT",
-        "name": "kanagawa paper ink"
+        "name": "kanagawa paper ink",
+        "updater": "https://raw.githubusercontent.com/omardotdev/aliucord-themes/refs/heads/main/themes/kanagawa-paper/ink.json"
     },
     "background": {},
     "simple_colors": {
